@@ -25,7 +25,7 @@ const Testimonials = () => {
                     <p className="text-[16px] font-normal leading-[26px] text-[#515151]">Founder & CEO, Visio</p>
                 </div>
             </div>
-            <p className="text-[18px] text-normal leading-[32px] text-[#020B13]">I was impressed with SJO Services's ability to understand my vision and translate it into a beautiful and functional website. The SEO optimization has also led to a significant increase in website traffic.</p>
+            <p className="text-[18px] text-normal leading-[32px] text-[#020B13]">I was impressed with SJO Services&apos;s ability to understand my vision and translate it into a beautiful and functional website. The SEO optimization has also led to a significant increase in website traffic.</p>
         </div>
         <div className="flex gap-[29px] justify-center">
             <Image 

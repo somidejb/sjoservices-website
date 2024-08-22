@@ -23,10 +23,10 @@ const AboutUs = () => {
                 /> 
             </div>     
             <p className="font-medium text-[24px] leading-[36px] text-white">
-            Empowering Success Through Innovative Solutions 
+                Empowering Success Through Innovative Solutions 
             </p>
             <p className="font-normal text-[14px] leading-[22px] text-white">
-            We believe a successful website goes beyond aesthetics; it's a strategic tool to achieve your business goals. That's why we take a collaborative approach, working closely with you to understand your vision, target audience, and desired outcomes. Our team of skilled developers and designers will then craft a beautiful, user-friendly website optimized for search engines and conversions. We're passionate about clear communication and keeping you informed throughout the entire process.
+                We believe a successful website goes beyond aesthetics; it&apos;s a strategic tool to achieve your business goals. That&apos;s why we take a collaborative approach, working closely with you to understand your vision, target audience, and desired outcomes. Our team of skilled developers and designers will then craft a beautiful, user-friendly website optimized for search engines and conversions. We&apos;re passionate about clear communication and keeping you informed throughout the entire process.
             </p>
         </div>
         <h2 className = "bg-[#F7F7F7] text-center font-medium text-[22px] pt-[24px] leading-[33px] text-[#020B13]">Grow Your Business Online</h2>
