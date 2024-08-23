@@ -43,7 +43,7 @@ const ContactForm = () => {
           render={({ field }) => (
             <FormItem>
               <FormControl>
-                <Input className="rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Name" {...field} />
+                <Input className="focus-visible:ring-transparent focus:ring-transparent focus-visible:ring-offset-0 focus:ring-offset-0  rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Name" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -55,7 +55,7 @@ const ContactForm = () => {
           render={({ field }) => (
             <FormItem>
               <FormControl>
-                <Input className="rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Business Name" {...field} />
+                <Input className="focus-visible:ring-transparent focus:ring-transparent focus-visible:ring-offset-0 focus:ring-offset-0 rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Business Name" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -67,7 +67,7 @@ const ContactForm = () => {
           render={({ field }) => (
             <FormItem>
               <FormControl>
-                <Input className="rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Business Email" {...field} />
+                <Input className="focus-visible:ring-transparent focus:ring-transparent focus-visible:ring-offset-0 focus:ring-offset-0 rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Business Email" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -79,7 +79,7 @@ const ContactForm = () => {
           render={({ field }) => (
             <FormItem>
               <FormControl>
-                <Input className="rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Phone Number" {...field} />
+                <Input className="focus-visible:ring-transparent focus:ring-transparent focus-visible:ring-offset-0 focus:ring-offset-0 rounded-[8px] h-[44px] px-[16px] py-[10px] text-[14px] leading-[24px] font-normal" placeholder="Your Phone Number" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -91,7 +91,7 @@ const ContactForm = () => {
           render={({ field }) => (
             <FormItem>
               <FormControl>
-                <Textarea className="rounded-[8px] h-[96px] px-[16px] py-[12px] text-[14px] leading-[24px] font-normal" placeholder="Type your message here..." {...field} />
+                <Textarea className="focus-visible:ring-transparent focus:ring-transparent focus-visible:ring-offset-0 focus:ring-offset-0 rounded-[8px] h-[96px] px-[16px] py-[12px] text-[14px] leading-[24px] font-normal" placeholder="Type your message here..." {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
